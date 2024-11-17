@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Boobathi-13/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Boobathi-13/Leetcode/tree/master/0041-first-missing-positive) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Boobathi-13/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Boobathi-13/Leetcode/tree/master/0041-first-missing-positive) |
 ## Math
 |  |
 | ------- |
