@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Boobathi-13/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Boobathi-13/Leetcode/tree/master/0041-first-missing-positive) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 ## String
 |  |
