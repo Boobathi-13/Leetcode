@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
+| [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
 ## Stack
 |  |
 | ------- |
@@ -76,8 +78,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
+## Bitmask
+|  |
+| ------- |
+| [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
