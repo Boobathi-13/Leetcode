@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+## Trie
+|  |
+| ------- |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 <!---LeetCode Topics End-->
