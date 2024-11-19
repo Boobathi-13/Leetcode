@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Boobathi-13/Leetcode/tree/master/0007-reverse-integer) |
+| [0089-gray-code](https://github.com/Boobathi-13/Leetcode/tree/master/0089-gray-code) |
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
 | [0823-split-array-with-same-average](https://github.com/Boobathi-13/Leetcode/tree/master/0823-split-array-with-same-average) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Boobathi-13/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0090-subsets-ii) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Boobathi-13/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0090-subsets-ii) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
 ## Breadth-First Search
