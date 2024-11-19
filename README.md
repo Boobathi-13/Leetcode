@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-parallel-courses-ii](https://github.com/Boobathi-13/Leetcode/tree/master/1587-parallel-courses-ii) |
 | [1881-closest-subsequence-sum](https://github.com/Boobathi-13/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 ## Bitmask
 |  |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Tree
+|  |
+| ------- |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 <!---LeetCode Topics End-->
