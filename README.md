@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Boobathi-13/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0876-hand-of-straights](https://github.com/Boobathi-13/Leetcode/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Boobathi-13/Leetcode/tree/master/0889-buddy-strings) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Boobathi-13/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Boobathi-13/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
 | [0823-split-array-with-same-average](https://github.com/Boobathi-13/Leetcode/tree/master/0823-split-array-with-same-average) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Boobathi-13/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Boobathi-13/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [3567-convert-date-to-binary](https://github.com/Boobathi-13/Leetcode/tree/master/3567-convert-date-to-binary) |
