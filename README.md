@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Boobathi-13/Leetcode/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0493-reverse-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0493-reverse-pairs) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0677-map-sum-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0697-degree-of-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Boobathi-13/Leetcode/tree/master/0726-number-of-atoms) |
 | [0808-number-of-matching-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0677-map-sum-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Boobathi-13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1881-closest-subsequence-sum](https://github.com/Boobathi-13/Leetcode/tree/master/1881-closest-subsequence-sum) |
 ## Enumeration
