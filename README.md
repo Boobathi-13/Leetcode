@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Boobathi-13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Boobathi-13/Leetcode/tree/master/0127-word-ladder) |
+| [0142-linked-list-cycle-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1881-closest-subsequence-sum](https://github.com/Boobathi-13/Leetcode/tree/master/1881-closest-subsequence-sum) |
 ## Enumeration
 |  |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
