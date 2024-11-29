@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2241-recover-the-original-array](https://github.com/Boobathi-13/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2340-total-appeal-of-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Boobathi-13/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-parallel-courses-ii](https://github.com/Boobathi-13/Leetcode/tree/master/1587-parallel-courses-ii) |
 | [1881-closest-subsequence-sum](https://github.com/Boobathi-13/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
+| [2340-total-appeal-of-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3646-sum-of-good-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/3646-sum-of-good-subsequences) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Boobathi-13/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
+| [2340-total-appeal-of-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
