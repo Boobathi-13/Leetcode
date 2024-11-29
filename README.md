@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1881-closest-subsequence-sum](https://github.com/Boobathi-13/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Boobathi-13/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2241-recover-the-original-array](https://github.com/Boobathi-13/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Boobathi-13/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2241-recover-the-original-array](https://github.com/Boobathi-13/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Boobathi-13/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1297-maximum-number-of-balloons](https://github.com/Boobathi-13/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Boobathi-13/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2241-recover-the-original-array](https://github.com/Boobathi-13/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Boobathi-13/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Boobathi-13/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Hash Function
