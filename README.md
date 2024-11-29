@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1043-grid-illumination](https://github.com/Boobathi-13/Leetcode/tree/master/1043-grid-illumination) |
 | [1044-find-common-characters](https://github.com/Boobathi-13/Leetcode/tree/master/1044-find-common-characters) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Boobathi-13/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1344-maximum-equal-frequency](https://github.com/Boobathi-13/Leetcode/tree/master/1344-maximum-equal-frequency) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Boobathi-13/Leetcode/tree/master/0889-buddy-strings) |
 | [1043-grid-illumination](https://github.com/Boobathi-13/Leetcode/tree/master/1043-grid-illumination) |
 | [1044-find-common-characters](https://github.com/Boobathi-13/Leetcode/tree/master/1044-find-common-characters) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Boobathi-13/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Boobathi-13/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Boobathi-13/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1297-maximum-number-of-balloons](https://github.com/Boobathi-13/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
