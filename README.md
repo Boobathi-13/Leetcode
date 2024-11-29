@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Boobathi-13/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Boobathi-13/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Boobathi-13/Leetcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
