@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Boobathi-13/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Boobathi-13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0290-word-pattern](https://github.com/Boobathi-13/Leetcode/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/Boobathi-13/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Boobathi-13/Leetcode/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Boobathi-13/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Boobathi-13/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
