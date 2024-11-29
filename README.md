@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0260-single-number-iii](https://github.com/Boobathi-13/Leetcode/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Boobathi-13/Leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0493-reverse-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Boobathi-13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/Boobathi-13/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Boobathi-13/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Boobathi-13/Leetcode/tree/master/0089-gray-code) |
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Boobathi-13/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Boobathi-13/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Boobathi-13/Leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Boobathi-13/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/Boobathi-13/Leetcode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Boobathi-13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0677-map-sum-pairs) |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Boobathi-13/Leetcode/tree/master/0398-random-pick-index) |
 ## Queue
 |  |
