@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Boobathi-13/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2479-meeting-rooms-iii](https://github.com/Boobathi-13/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Boobathi-13/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Boobathi-13/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2455-node-with-highest-edge-score](https://github.com/Boobathi-13/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Boobathi-13/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -485,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Boobathi-13/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
+## String Matching
+|  |
+| ------- |
+| [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
 <!---LeetCode Topics End-->
