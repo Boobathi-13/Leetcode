@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathi-13/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Boobathi-13/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3516-design-neighbor-sum-service](https://github.com/Boobathi-13/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Boobathi-13/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3646-sum-of-good-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 ## Hash Table
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Boobathi-13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathi-13/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Boobathi-13/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3516-design-neighbor-sum-service](https://github.com/Boobathi-13/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Boobathi-13/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3646-sum-of-good-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 ## Math
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [3516-design-neighbor-sum-service](https://github.com/Boobathi-13/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Boobathi-13/Leetcode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Boobathi-13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0677-map-sum-pairs) |
+| [3516-design-neighbor-sum-service](https://github.com/Boobathi-13/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/Boobathi-13/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Boobathi-13/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3516-design-neighbor-sum-service](https://github.com/Boobathi-13/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Reservoir Sampling
 |  |
 | ------- |
