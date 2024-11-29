@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
+| [3646-sum-of-good-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Boobathi-13/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
+| [3646-sum-of-good-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3646-sum-of-good-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 ## Stack
 |  |
 | ------- |
