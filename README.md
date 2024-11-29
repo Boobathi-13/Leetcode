@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Boobathi-13/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2455-node-with-highest-edge-score](https://github.com/Boobathi-13/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Boobathi-13/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1587-parallel-courses-ii](https://github.com/Boobathi-13/Leetcode/tree/master/1587-parallel-courses-ii) |
+| [2455-node-with-highest-edge-score](https://github.com/Boobathi-13/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Binary Indexed Tree
 |  |
