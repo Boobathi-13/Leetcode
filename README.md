@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0480-sliding-window-median](https://github.com/Boobathi-13/Leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Boobathi-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/Boobathi-13/Leetcode/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/Boobathi-13/Leetcode/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/Boobathi-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Boobathi-13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0677-map-sum-pairs) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Boobathi-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Boobathi-13/Leetcode/tree/master/0726-number-of-atoms) |
 ## Matrix
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Boobathi-13/Leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
