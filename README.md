@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Boobathi-13/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Boobathi-13/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Boobathi-13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathi-13/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Boobathi-13/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Boobathi-13/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Boobathi-13/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Boobathi-13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/Boobathi-13/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Boobathi-13/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
