@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Boobathi-13/Leetcode/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1344-maximum-equal-frequency](https://github.com/Boobathi-13/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1881-closest-subsequence-sum](https://github.com/Boobathi-13/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1297-maximum-number-of-balloons](https://github.com/Boobathi-13/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1344-maximum-equal-frequency](https://github.com/Boobathi-13/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
