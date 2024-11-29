@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2291-maximum-and-sum-of-array](https://github.com/Boobathi-13/Leetcode/tree/master/2291-maximum-and-sum-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Boobathi-13/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
+| [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Boobathi-13/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Boobathi-13/Leetcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Heap (Priority Queue)
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1587-parallel-courses-ii](https://github.com/Boobathi-13/Leetcode/tree/master/1587-parallel-courses-ii) |
+| [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Boobathi-13/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Prefix Sum
 |  |
 | ------- |
