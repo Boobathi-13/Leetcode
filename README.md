@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Boobathi-13/Leetcode/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/Boobathi-13/Leetcode/tree/master/0480-sliding-window-median) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Boobathi-13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0697-degree-of-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Boobathi-13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Boobathi-13/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Boobathi-13/Leetcode/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Boobathi-13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0677-map-sum-pairs) |
 ## Doubly-Linked List
 |  |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Boobathi-13/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Boobathi-13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
