@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Boobathi-13/Leetcode/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Boobathi-13/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Boobathi-13/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Boobathi-13/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Boobathi-13/Leetcode/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/Boobathi-13/Leetcode/tree/master/0355-design-twitter) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Boobathi-13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Boobathi-13/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Boobathi-13/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/Boobathi-13/Leetcode/tree/master/0480-sliding-window-median) |
