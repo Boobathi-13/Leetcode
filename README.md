@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Boobathi-13/Leetcode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Boobathi-13/Leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Boobathi-13/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Boobathi-13/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Boobathi-13/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Boobathi-13/Leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/0808-number-of-matching-subsequences) |
