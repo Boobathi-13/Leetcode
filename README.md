@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Boobathi-13/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Boobathi-13/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Boobathi-13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Boobathi-13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Boobathi-13/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Boobathi-13/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Boobathi-13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0389-find-the-difference](https://github.com/Boobathi-13/Leetcode/tree/master/0389-find-the-difference) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
