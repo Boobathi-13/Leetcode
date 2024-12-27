@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Boobathi-13/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Boobathi-13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Boobathi-13/Leetcode/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Boobathi-13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Boobathi-13/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
