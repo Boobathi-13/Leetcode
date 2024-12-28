@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Boobathi-13/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Boobathi-13/Leetcode/tree/master/0260-single-number-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Boobathi-13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Boobathi-13/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Boobathi-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Boobathi-13/Leetcode/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Boobathi-13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
