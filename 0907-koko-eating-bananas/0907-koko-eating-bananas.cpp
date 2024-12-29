@@ -13,7 +13,7 @@ public:
             }
 
             cout<<"\n"<<"Left:"<<left;
-            cout<<"\n"<<"Right:"<<right<< "\n";
+            cout<<"\n"<<"Right:"<<right;
             cout<<"\n"<<"mid:"<<mid;
             cout<<"\n"<<"value:"<<val;
 
