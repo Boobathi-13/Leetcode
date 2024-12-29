@@ -57,7 +57,5 @@ int* searchRange(int* nums, int n, int target, int* returnSize) {
             left = mid + 1;
         }
     }
-
-    return arr;
     return arr;
 }
