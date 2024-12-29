@@ -12,17 +12,16 @@ public:
                 if(x%mid) val++;
             }
 
-            cout<<" | "<<mid;
+            cout<<"\n"<<"Left:"<<left;
+            cout<<"\n"<<"Right:"<<right<< "\n";
+            cout<<"\n"<<"mid:"<<mid;
+            cout<<"\n"<<"value:"<<val;
 
-            cout<<" - "<<val;
+            cout<<"\n";      
 
-            cout<< "\n"<< "Left:" << left<< "\n";
-            cout<< "\n"<< "Right:" << right<< "\n";
-        
-        
-                if(val<=h) right = mid;
+            if(val<=h) right = mid;
             else left = mid+1;
         }
-        return left;
+        return right;
     }
 };
