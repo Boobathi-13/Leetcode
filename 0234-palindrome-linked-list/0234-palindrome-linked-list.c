@@ -22,7 +22,7 @@ bool isPalindrome(struct ListNode* head) {
         slow=slow->next;
         fast=fast->next->next;
     }
-
+    printf("%d",slow->val);
     struct ListNode* fhalf = head;
     struct ListNode* shalf = reverse(slow);
 
