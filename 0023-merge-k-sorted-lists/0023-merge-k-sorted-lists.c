@@ -40,6 +40,7 @@
 }
 
 struct ListNode* mergeKLists(struct ListNode** lists, int n) {
+    printf("%d",n);
     if(lists==NULL || n==0 ) return NULL;
     while(n>1){
         int k = (n+1)/2;
