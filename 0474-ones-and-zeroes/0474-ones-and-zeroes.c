@@ -20,9 +20,7 @@ int findMaxForm(char **strs, int strsSize, int m, int n) {
         // Update the DP table from the back to avoid overwriting previous results
         for (int j = m; j >= zeros; j--) {
             for (int k = n; k >= ones; k--) {
-                dp[j][k] = (dp[j][k] > dp[j - zeros][k - ones] + 1) 
-                           ? dp[j][k] 
-                           : dp[j - zeros][k - ones] + 1;
+                dp[j][k] = (dp[j][k] > dp[j - zeros][k - ones] + 1) ? dp[j][k] : dp[j - zeros][k - ones] + 1;
             }
         }
     }
