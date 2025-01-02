@@ -2,48 +2,61 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Custom comparator for sorting strings
-int compare(const void* a, const void* b) {
-    char* str1 = *(char**)a;
-    char* str2 = *(char**)b;
-    
-    // Concatenate both possible combinations
-    char combo1[200], combo2[200];
-    strcpy(combo1, str1);
-    strcat(combo1, str2);
-    
-    strcpy(combo2, str2);
-    strcat(combo2, str1);
-    
-    // Compare the two concatenated results
-    return strcmp(combo2, combo1);  // Reverse order
+// Helper function to compare two numbers represented as strings
+int compare(const char *a, const char *b) {
+    char ab[30], ba[30];
+    sprintf(ab, "%s%s", a, b); // Concatenate a + b
+    sprintf(ba, "%s%s", b, a); // Concatenate b + a
+    return strcmp(ba, ab); // Reverse order for descending sort
 }
 
 char* largestNumber(int* nums, int numsSize) {
-    // Allocate memory for string representation of numbers
-    char** numStrs = (char**)malloc(numsSize * sizeof(char*));
+    if (numsSize == 0) {
+        return strdup("0"); // If the input is empty, return "0"
+    }
+    
+    // Allocate memory for string versions of numbers
+    char** strNums = malloc(numsSize * sizeof(char*));
     for (int i = 0; i < numsSize; i++) {
-        numStrs[i] = (char*)malloc(12 * sizeof(char));  // Enough for int as string
-        sprintf(numStrs[i], "%d", nums[i]);
+        strNums[i] = malloc(12 * sizeof(char)); // Maximum 10 digits + 1 for '\0'
+        sprintf(strNums[i], "%d", nums[i]); // Convert number to string
     }
     
-    // Sort the string array using qsort and the custom comparator
-    qsort(numStrs, numsSize, sizeof(char*), compare);
-    
-    // Handle edge case where the largest number is "0"
-    if (strcmp(numStrs[0], "0") == 0) {
-        free(numStrs);
-        return "0";
+    // Manual sorting (bubble sort) using the custom comparator
+    for (int i = 0; i < numsSize - 1; i++) {
+        for (int j = 0; j < numsSize - i - 1; j++) {
+            if (compare(strNums[j], strNums[j + 1]) > 0) {
+                // Swap strNums[j] and strNums[j + 1]
+                char* temp = strNums[j];
+                strNums[j] = strNums[j + 1];
+                strNums[j + 1] = temp;
+            }
+        }
     }
     
-    // Concatenate sorted numbers into the result string
-    char* result = (char*)malloc(numsSize * 12 * sizeof(char));
-    result[0] = '\0';  // Initialize empty string
+    // If the largest number is "0", return "0" (handles cases like [0, 0])
+    if (strcmp(strNums[0], "0") == 0) {
+        for (int i = 0; i < numsSize; i++) {
+            free(strNums[i]); // Free allocated memory
+        }
+        free(strNums);
+        return strdup("0");
+    }
+    
+    // Concatenate all strings to form the largest number
+    size_t totalLength = 0;
     for (int i = 0; i < numsSize; i++) {
-        strcat(result, numStrs[i]);
-        free(numStrs[i]);  // Free individual strings after concatenation
+        totalLength += strlen(strNums[i]);
     }
-    free(numStrs);
     
+    char* result = malloc((totalLength + 1) * sizeof(char)); // +1 for '\0'
+    result[0] = '\0'; // Initialize as an empty string
+    
+    for (int i = 0; i < numsSize; i++) {
+        strcat(result, strNums[i]); // Concatenate each string
+        free(strNums[i]); // Free the string memory
+    }
+    
+    free(strNums); // Free the array of string pointers
     return result;
 }
