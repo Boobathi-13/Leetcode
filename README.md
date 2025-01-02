@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Boobathi-13/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Boobathi-13/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/Boobathi-13/Leetcode/tree/master/0321-create-maximum-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Boobathi-13/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/Boobathi-13/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Boobathi-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/Boobathi-13/Leetcode/tree/master/0726-number-of-atoms) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Boobathi-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/Boobathi-13/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Boobathi-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## String
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Boobathi-13/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Boobathi-13/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/Boobathi-13/Leetcode/tree/master/0321-create-maximum-number) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Boobathi-13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Boobathi-13/Leetcode/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/Boobathi-13/Leetcode/tree/master/0321-create-maximum-number) |
 | [0409-longest-palindrome](https://github.com/Boobathi-13/Leetcode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Boobathi-13/Leetcode/tree/master/0876-hand-of-straights) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
