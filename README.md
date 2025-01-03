@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
 | [0823-split-array-with-same-average](https://github.com/Boobathi-13/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Boobathi-13/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1070-convert-to-base-2](https://github.com/Boobathi-13/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Boobathi-13/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/1635-number-of-good-pairs) |
