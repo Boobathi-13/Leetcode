@@ -16,6 +16,6 @@ char * convertToBase7(int num){
         result[i] = result[count-i-1];
         result[count-i-1] = temp;
     }
-    result[count] = 0;
+    result[count] = '\0';
     return result;
 }
