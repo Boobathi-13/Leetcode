@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0695-max-area-of-island](https://github.com/Boobathi-13/Leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
 | [0792-binary-search](https://github.com/Boobathi-13/Leetcode/tree/master/0792-binary-search) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Boobathi-13/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/Boobathi-13/Leetcode/tree/master/0695-max-area-of-island) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Boobathi-13/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Boobathi-13/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Boobathi-13/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Boobathi-13/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Boobathi-13/Leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Boobathi-13/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
 | [0832-binary-tree-pruning](https://github.com/Boobathi-13/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Boobathi-13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Boobathi-13/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Boobathi-13/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
