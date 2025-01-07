@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Boobathi-13/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Boobathi-13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0126-word-ladder-ii) |
