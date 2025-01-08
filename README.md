@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Boobathi-13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Boobathi-13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0090-subsets-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Boobathi-13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Boobathi-13/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Boobathi-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Boobathi-13/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Boobathi-13/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0140-word-break-ii) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Boobathi-13/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0126-word-ladder-ii) |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Boobathi-13/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Boobathi-13/Leetcode/tree/master/0101-symmetric-tree) |
