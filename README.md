@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Boobathi-13/Leetcode/tree/master/0726-number-of-atoms) |
+| [0763-special-binary-string](https://github.com/Boobathi-13/Leetcode/tree/master/0763-special-binary-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0822-unique-morse-code-words](https://github.com/Boobathi-13/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Boobathi-13/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0763-special-binary-string](https://github.com/Boobathi-13/Leetcode/tree/master/0763-special-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
