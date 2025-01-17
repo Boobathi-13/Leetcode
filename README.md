@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Boobathi-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/Boobathi-13/Leetcode/tree/master/0726-number-of-atoms) |
+| [0886-score-of-parentheses](https://github.com/Boobathi-13/Leetcode/tree/master/0886-score-of-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0822-unique-morse-code-words](https://github.com/Boobathi-13/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Boobathi-13/Leetcode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0886-score-of-parentheses](https://github.com/Boobathi-13/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Boobathi-13/Leetcode/tree/master/0889-buddy-strings) |
 | [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1044-find-common-characters](https://github.com/Boobathi-13/Leetcode/tree/master/1044-find-common-characters) |
