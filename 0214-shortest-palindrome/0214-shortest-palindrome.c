@@ -1,31 +1,27 @@
 char* shortestPalindrome(char* s) {
-    if(strlen(s)<2)
-        return s;
-    char *a = (char*)malloc(sizeof(char) * strlen(s) * 2 + 1);
-    int i;
-    for(i=0;i<strlen(s);i++){
-        a[i] = s[strlen(s)-1-i];
-    }
-
-    int j=0,k=0,t=0;
-    while(s[j] != '\0'){
-        int c = k;
-         t = 0;
-        while(c<i){
-            if(s[t] != a[c])
-                break;
-            t++;
-            c++;
-        } 
-        if(c == i)
-            break;
-        k++;       
-
-    }
-    while(s[t] != '\0'){
-        a[i] = s[t];
+    int n = strlen(s);
+    char* a=(char*)malloc((sizeof(char))*2*n+1);
+    int i=0,j;
+    for(j=n-1; j>=0; j--) {
+        a[j]=s[i];
         i++;
-        t++;
+    }
+    int k=0,m=0;
+    while(s[k]!='\0') {
+        int t=k;
+        m=0;
+        while(t<n) {
+            if(s[m]!=a[t]) break;
+            t++;
+            m++;
+        }
+        if(t==n) break;
+        k++;
+    }
+    while(s[m]!='\0') {
+        a[i]=s[m];
+        m++;
+        i++;
     }
     a[i] = '\0';
     return a;
