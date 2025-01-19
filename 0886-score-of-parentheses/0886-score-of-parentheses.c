@@ -1,10 +1,15 @@
-int scoreOfParentheses(char * S){
-    int res = 0, balance = 0;
-    for ( int index = 0; S[index]; ++index )
-    {
-        balance += S[index] == '(' ? 1 : -1;
-        if ( index && S[index - 1] == '(' && S[index] == ')' )
-            res += pow( 2, balance );
+int scoreOfParentheses(char * s){
+    int res=0, balance=0;
+    for(int index=0; s[index]; ++index){
+        if(s[index]=='('){
+            balance++;
+        }
+        else{ // When s[index] == ')'
+            balance--;
+            if(s[index-1]=='('){
+                res = res + pow(2,balance);
+            }
+        }
     }
     return res;
 }
