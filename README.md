@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Boobathi-13/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2241-recover-the-original-array](https://github.com/Boobathi-13/Leetcode/tree/master/2241-recover-the-original-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Boobathi-13/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1297-maximum-number-of-balloons](https://github.com/Boobathi-13/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-encrypt-and-decrypt-strings](https://github.com/Boobathi-13/Leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Boobathi-13/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2340-total-appeal-of-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
