@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1013-fibonacci-number](https://github.com/Boobathi-13/Leetcode/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/Boobathi-13/Leetcode/tree/master/1129-longest-string-chain) |
+| [1517-restore-the-array](https://github.com/Boobathi-13/Leetcode/tree/master/1517-restore-the-array) |
 | [1587-parallel-courses-ii](https://github.com/Boobathi-13/Leetcode/tree/master/1587-parallel-courses-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Boobathi-13/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1881-closest-subsequence-sum](https://github.com/Boobathi-13/Leetcode/tree/master/1881-closest-subsequence-sum) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Boobathi-13/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Boobathi-13/Leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
+| [1517-restore-the-array](https://github.com/Boobathi-13/Leetcode/tree/master/1517-restore-the-array) |
 | [1668-find-longest-awesome-substring](https://github.com/Boobathi-13/Leetcode/tree/master/1668-find-longest-awesome-substring) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Boobathi-13/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
