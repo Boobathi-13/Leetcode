@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/Boobathi-13/Leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1013-fibonacci-number](https://github.com/Boobathi-13/Leetcode/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/Boobathi-13/Leetcode/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/Boobathi-13/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1517-restore-the-array](https://github.com/Boobathi-13/Leetcode/tree/master/1517-restore-the-array) |
 | [1587-parallel-courses-ii](https://github.com/Boobathi-13/Leetcode/tree/master/1587-parallel-courses-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Boobathi-13/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Boobathi-13/Leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Boobathi-13/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/Boobathi-13/Leetcode/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/Boobathi-13/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Boobathi-13/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Boobathi-13/Leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
