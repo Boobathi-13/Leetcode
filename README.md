@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Boobathi-13/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Boobathi-13/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Boobathi-13/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Boobathi-13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Boobathi-13/Leetcode/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Boobathi-13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0140-word-break-ii) |
+| [0221-maximal-square](https://github.com/Boobathi-13/Leetcode/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Boobathi-13/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Boobathi-13/Leetcode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Boobathi-13/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Boobathi-13/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Boobathi-13/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Boobathi-13/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Boobathi-13/Leetcode/tree/master/0695-max-area-of-island) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
