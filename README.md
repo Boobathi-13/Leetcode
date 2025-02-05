@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Boobathi-13/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Boobathi-13/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Graph
 |  |
 | ------- |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Boobathi-13/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Boobathi-13/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Boobathi-13/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Boobathi-13/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Boobathi-13/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
