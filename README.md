@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Boobathi-13/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Boobathi-13/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1300-critical-connections-in-a-network](https://github.com/Boobathi-13/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1587-parallel-courses-ii](https://github.com/Boobathi-13/Leetcode/tree/master/1587-parallel-courses-ii) |
 | [2455-node-with-highest-edge-score](https://github.com/Boobathi-13/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Boobathi-13/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Boobathi-13/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/Boobathi-13/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Boobathi-13/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -876,4 +878,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Boobathi-13/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Boobathi-13/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
