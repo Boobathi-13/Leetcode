@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Boobathi-13/Leetcode/tree/master/1803-average-waiting-time) |
 | [1881-closest-subsequence-sum](https://github.com/Boobathi-13/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Boobathi-13/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Boobathi-13/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Boobathi-13/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2241-recover-the-original-array](https://github.com/Boobathi-13/Leetcode/tree/master/2241-recover-the-original-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Boobathi-13/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Boobathi-13/Leetcode/tree/master/0971-shortest-bridge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Boobathi-13/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3516-design-neighbor-sum-service](https://github.com/Boobathi-13/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Monotonic Stack
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/Boobathi-13/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Boobathi-13/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Boobathi-13/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Graph
 |  |
 | ------- |
