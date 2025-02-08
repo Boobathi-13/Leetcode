@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Boobathi-13/Leetcode/tree/master/1044-find-common-characters) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Boobathi-13/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Boobathi-13/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/Boobathi-13/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Boobathi-13/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Boobathi-13/Leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
 | [0967-minimum-falling-path-sum](https://github.com/Boobathi-13/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Boobathi-13/Leetcode/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/Boobathi-13/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Boobathi-13/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Boobathi-13/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0971-shortest-bridge](https://github.com/Boobathi-13/Leetcode/tree/master/0971-shortest-bridge) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Boobathi-13/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Boobathi-13/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Boobathi-13/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Boobathi-13/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/Boobathi-13/Leetcode/tree/master/0971-shortest-bridge) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Boobathi-13/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Boobathi-13/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Boobathi-13/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Boobathi-13/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Boobathi-13/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Boobathi-13/Leetcode/tree/master/0721-accounts-merge) |
+| [1073-number-of-enclaves](https://github.com/Boobathi-13/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 ## Prefix Sum
