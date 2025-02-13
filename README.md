@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Boobathi-13/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Boobathi-13/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Boobathi-13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Boobathi-13/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Boobathi-13/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Boobathi-13/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Boobathi-13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Boobathi-13/Leetcode/tree/master/0087-scramble-string) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Boobathi-13/Leetcode/tree/master/0068-text-justification) |
 | [1803-average-waiting-time](https://github.com/Boobathi-13/Leetcode/tree/master/1803-average-waiting-time) |
 | [2479-meeting-rooms-iii](https://github.com/Boobathi-13/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Boobathi-13/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
