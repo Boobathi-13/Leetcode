@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Boobathi-13/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Boobathi-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Boobathi-13/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Boobathi-13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Boobathi-13/Leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Boobathi-13/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Boobathi-13/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0090-subsets-ii) |
