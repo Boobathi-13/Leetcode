@@ -1,34 +1,30 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        int m = matrix.length, n = matrix[0].length;
-        int[] heights = new int[n];
-        int ans = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                heights[j] = matrix[i][j] == '0' ? 0 : heights[j] + 1;
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0)
+            return 0;
+        
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        int[] heights = new int[cols + 1]; // Include an extra element for easier calculation
+        int maxArea = 0;
+        
+        for (char[] row : matrix) {
+            for (int i = 0; i < cols; i++) {
+                heights[i] = (row[i] == '1') ? heights[i] + 1 : 0;
             }
-            ans = Math.max(ans, largestRectInHistogram(heights));
-        }
-        return ans;
-    }
-    
-    private int largestRectInHistogram(int[] heights) {
-        // Monotonic Stack Approach
-        Deque<Integer> stack = new ArrayDeque<>();
-        int n = heights.length;
-        int ans = 0;
-        stack.offerFirst(-1);
-        for (int i = 0; i < n; i++) {
-            while (stack.peekFirst() != -1 && heights[stack.peekFirst()] > heights[i]) {
-                int ind = stack.pollFirst();
-                ans = Math.max(ans, heights[ind] * (i - stack.peekFirst() - 1));
+            
+            // Calculate max area using histogram method
+            int n = heights.length; // Number of bars in the histogram
+            
+            for (int i = 0; i < n; i++) {
+                for (int j = i, minHeight = Integer.MAX_VALUE; j < n; j++) {
+                    minHeight = Math.min(minHeight, heights[j]);
+                    int area = minHeight * (j - i + 1);
+                    maxArea = Math.max(maxArea, area);
+                }
             }
-            stack.offerFirst(i);
         }
-        while (stack.peekFirst() != -1) {
-            int ind = stack.pollFirst();
-            ans = Math.max(ans, heights[ind] * (n - stack.peekFirst() - 1));
-        }
-        return ans;
+        
+        return maxArea;
     }
 }
