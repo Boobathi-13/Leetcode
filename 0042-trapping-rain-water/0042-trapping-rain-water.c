@@ -4,15 +4,14 @@ int trap(int* height, int heightSize) {
     int ml = height[l];
     int mr = height[r];
     int water = 0;
-    while(l < r) {
-        if(ml < mr) {
+    while(l < r){
+        if(ml < mr){
             l++;
-            ml = (ml > height[l]) ? ml : height[l];
+            ml = ml > height[l] ? ml : height[l];
             water += ml - height[l];
-        }
-        else {
+        } else {
             r--;
-            mr = (mr>height[r]) ? mr : height[r];
+            mr = mr > height[r] ? mr : height[r];
             water += mr - height[r];
         }
     }
