@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Boobathi-13/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Boobathi-13/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2479-meeting-rooms-iii](https://github.com/Boobathi-13/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Boobathi-13/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Boobathi-13/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Boobathi-13/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Boobathi-13/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Boobathi-13/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [2241-recover-the-original-array](https://github.com/Boobathi-13/Leetcode/tree/master/2241-recover-the-original-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Boobathi-13/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/Boobathi-13/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Boobathi-13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/Boobathi-13/Leetcode/tree/master/0480-sliding-window-median) |
 | [0948-sort-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/0948-sort-an-array) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Boobathi-13/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/Boobathi-13/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
@@ -852,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Boobathi-13/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Boobathi-13/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 ## String Matching
 |  |
