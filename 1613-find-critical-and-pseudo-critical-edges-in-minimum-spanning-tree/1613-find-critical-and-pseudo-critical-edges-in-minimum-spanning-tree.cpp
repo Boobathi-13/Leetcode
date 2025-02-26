@@ -1,7 +1,3 @@
-
-// bhai bahut sahi qs to revise all concept of Graph(Dsu, mst,kruskal,adding edges)
-
- //<-----------------DSU------------------------------------>
 class dsu {
 public:
     vector<int> parent, size, rank;
@@ -53,18 +49,12 @@ public:
         }
     }
 };
-//<-----------------DSU End------------------------------------>
 class Solution {
 public:
     int n;
 
-
- // adj-->{wt,{u,v,idx}}
-// pair<int,tuple<>>   
     vector<pair<int, tuple<int, int, int>>> adj;
 
-
-//<-----------------Kruskal------------------------------------>
     int kruskal(int b1, int b2) {
         dsu d(n);
         int wt = 0, edge = 0;
@@ -88,8 +78,6 @@ public:
         return (edge == n - 1) ? wt : INT_MAX; 
     }
 
-//<-----------------Kruskal-End------------------------------------>
-
     vector<vector<int>> findCriticalAndPseudoCriticalEdges(int n, vector<vector<int>> &edges) {
         this->n = n;
         adj.clear();
@@ -107,13 +95,9 @@ public:
             int wt = kruskal(edges[i][0], edges[i][1]);
 
             
-  // if(removing this edge cost us more mst)-->crictical
-               // else if adding this edge give us same mst-->psudeo
             if (wt > mst) {
                 ans[0].push_back(i); 
             } else {
-                 // forcly adding this edge
-                 // yes, u can re-use kruskal, i'm not using here
                 dsu d(n);
                 d.unionRank(edges[i][0], edges[i][1]);
                 int wt1 = edges[i][2], edge = 1;
