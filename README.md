@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Boobathi-13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Boobathi-13/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Boobathi-13/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Boobathi-13/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Boobathi-13/Leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Boobathi-13/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Boobathi-13/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Boobathi-13/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Boobathi-13/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Boobathi-13/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Boobathi-13/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/Boobathi-13/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Boobathi-13/Leetcode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Recursion
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Boobathi-13/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Boobathi-13/Leetcode/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Boobathi-13/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Greedy
 |  |
 | ------- |
