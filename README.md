@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Boobathi-13/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Boobathi-13/Leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Boobathi-13/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Boobathi-13/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Boobathi-13/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0763-special-binary-string](https://github.com/Boobathi-13/Leetcode/tree/master/0763-special-binary-string) |
 | [1013-fibonacci-number](https://github.com/Boobathi-13/Leetcode/tree/master/1013-fibonacci-number) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Boobathi-13/Leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Boobathi-13/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Boobathi-13/Leetcode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Boobathi-13/Leetcode/tree/master/0876-hand-of-straights) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Boobathi-13/Leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Boobathi-13/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
