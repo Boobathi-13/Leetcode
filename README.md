@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Boobathi-13/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2505-number-of-good-paths](https://github.com/Boobathi-13/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Boobathi-13/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Boobathi-13/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Boobathi-13/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Boobathi-13/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Boobathi-13/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Boobathi-13/Leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Boobathi-13/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Boobathi-13/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Boobathi-13/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Boobathi-13/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Boobathi-13/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Boobathi-13/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Boobathi-13/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Boobathi-13/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Boobathi-13/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Boobathi-13/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 ## String Matching
