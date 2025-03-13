@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Boobathi-13/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Boobathi-13/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Boobathi-13/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Boobathi-13/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3567-convert-date-to-binary](https://github.com/Boobathi-13/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Divide and Conquer
 |  |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Boobathi-13/Leetcode/tree/master/0876-hand-of-straights) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/Boobathi-13/Leetcode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Boobathi-13/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Boobathi-13/Leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Boobathi-13/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Tree
