@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Boobathi-13/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Boobathi-13/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Boobathi-13/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0445-add-two-numbers-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Boobathi-13/Leetcode/tree/master/0504-base-7) |
 | [0798-transform-to-chessboard](https://github.com/Boobathi-13/Leetcode/tree/master/0798-transform-to-chessboard) |
 | [0823-split-array-with-same-average](https://github.com/Boobathi-13/Leetcode/tree/master/0823-split-array-with-same-average) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Boobathi-13/Leetcode/tree/master/0321-create-maximum-number) |
+| [0445-add-two-numbers-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Boobathi-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/Boobathi-13/Leetcode/tree/master/0726-number-of-atoms) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/Boobathi-13/Leetcode/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Boobathi-13/Leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Boobathi-13/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
