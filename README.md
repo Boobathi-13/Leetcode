@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1308-smallest-string-with-swaps](https://github.com/Boobathi-13/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1344-maximum-equal-frequency](https://github.com/Boobathi-13/Leetcode/tree/master/1344-maximum-equal-frequency) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Boobathi-13/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1433-encrypt-and-decrypt-strings](https://github.com/Boobathi-13/Leetcode/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Boobathi-13/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Boobathi-13/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Boobathi-13/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/Boobathi-13/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Boobathi-13/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Boobathi-13/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Boobathi-13/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Boobathi-13/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Boobathi-13/Leetcode/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Boobathi-13/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Boobathi-13/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Boobathi-13/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Boobathi-13/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Boobathi-13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Boobathi-13/Leetcode/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Boobathi-13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Boobathi-13/Leetcode/tree/master/0814-smallest-rotation-with-highest-score) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Boobathi-13/Leetcode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/Boobathi-13/Leetcode/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Boobathi-13/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Boobathi-13/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
