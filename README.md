@@ -955,4 +955,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/Boobathi-13/Leetcode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
