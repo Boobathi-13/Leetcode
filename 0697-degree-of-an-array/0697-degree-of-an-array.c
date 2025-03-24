@@ -1,40 +1,41 @@
-// Helper structure to store frequency, first and last occurrence
-typedef struct {
-    int frequency;
-    int firstIndex;
-    int lastIndex;
-} ElementInfo;
+#include <stdio.h>
+#include <limits.h>
+
+#define MAX_NUM 50000  // Given constraint for the maximum number
 
 int findShortestSubArray(int* nums, int numsSize) {
-    ElementInfo map[50000] = {0}; // Assuming nums[i] is between 0 and 49,999
-    int degree = 0;
-    int minLength = INT_MAX;
+    int freq[MAX_NUM + 1] = {0};  // Frequency of each number
+    int first[MAX_NUM + 1];       // First occurrence index
+    int last[MAX_NUM + 1];        // Last occurrence index
+    
+    int degree = 0, minLen = INT_MAX;
 
-    // Traverse the array to populate the map
     for (int i = 0; i < numsSize; i++) {
         int num = nums[i];
 
-        if (map[num].frequency == 0) {
-            map[num].firstIndex = i;
+        // If first occurrence, store the index
+        if (freq[num] == 0) {
+            first[num] = i;
         }
+        
+        last[num] = i;  // Update last occurrence
+        freq[num]++;    // Increase frequency
 
-        map[num].lastIndex = i;
-        map[num].frequency++;
-
-        if (map[num].frequency > degree) {
-            degree = map[num].frequency;
+        // Update degree of the array
+        if (freq[num] > degree) {
+            degree = freq[num];
         }
     }
 
-    // Find the smallest subarray length with the same degree
-    for (int i = 0; i < 50000; i++) {
-        if (map[i].frequency == degree) {
-            int length = map[i].lastIndex - map[i].firstIndex + 1;
-            if (length < minLength) {
-                minLength = length;
+    // Find the shortest subarray with the same degree
+    for (int i = 0; i <= MAX_NUM; i++) {
+        if (freq[i] == degree) {
+            int length = last[i] - first[i] + 1;
+            if (length < minLen) {
+                minLen = length;
             }
         }
     }
 
-    return minLength;
+    return minLen;
 }
