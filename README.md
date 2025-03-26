@@ -958,5 +958,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Boobathi-13/Leetcode/tree/master/0176-second-highest-salary) |
 | [1390-average-selling-price](https://github.com/Boobathi-13/Leetcode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
