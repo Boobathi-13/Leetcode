@@ -14,8 +14,8 @@ class Solution {
         while(num>0) {
             n = num % 7;
             n = n * m;
-            m *= 10;
             ans = ans + n;
+            m *= 10;
             num /= 7;
         }
         if(flag == 1){
