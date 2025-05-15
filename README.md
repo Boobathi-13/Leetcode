@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Boobathi-13/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Boobathi-13/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Boobathi-13/Leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Boobathi-13/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Boobathi-13/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Boobathi-13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Boobathi-13/Leetcode/tree/master/0079-word-search) |
