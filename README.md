@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Boobathi-13/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Boobathi-13/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Boobathi-13/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Boobathi-13/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Boobathi-13/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Boobathi-13/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Boobathi-13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Boobathi-13/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/Boobathi-13/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0691-stickers-to-spell-word](https://github.com/Boobathi-13/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0813-all-paths-from-source-to-target](https://github.com/Boobathi-13/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Boobathi-13/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Boobathi-13/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Boobathi-13/Leetcode/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/Boobathi-13/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Boobathi-13/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Boobathi-13/Leetcode/tree/master/0695-max-area-of-island) |
@@ -925,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Boobathi-13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Boobathi-13/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Boobathi-13/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Boobathi-13/Leetcode/tree/master/1005-univalued-binary-tree) |
