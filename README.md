@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Boobathi-13/Leetcode/tree/master/2390-naming-a-company) |
 | [2393-match-substring-after-replacement](https://github.com/Boobathi-13/Leetcode/tree/master/2393-match-substring-after-replacement) |
 | [2475-largest-palindromic-number](https://github.com/Boobathi-13/Leetcode/tree/master/2475-largest-palindromic-number) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Boobathi-13/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Boobathi-13/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Boobathi-13/Leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Boobathi-13/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
