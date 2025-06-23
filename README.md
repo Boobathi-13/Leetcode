@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Boobathi-13/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Boobathi-13/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Boobathi-13/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/Boobathi-13/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Boobathi-13/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Boobathi-13/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Boobathi-13/Leetcode/tree/master/0263-ugly-number) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Boobathi-13/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Boobathi-13/Leetcode/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Boobathi-13/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/Boobathi-13/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Boobathi-13/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Boobathi-13/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Boobathi-13/Leetcode/tree/master/0205-isomorphic-strings) |
